@@ -1,0 +1,6 @@
+jupyterlab
+voila
+wikidataintegrator
+ipywidgets
+rdflib
+pandas
